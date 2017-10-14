@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    background: black;
+}
+
+img {
+    width: 600px;
+    height: 600px;
+}
+
+.title {
+    color: white;
+    width: 30%;
+    display: inline-block;
+}
+
+.left-option {
+    display: inline-block;
+    width: 30%;
+    border-color: white;
+}
+
+.right-option {
+    display: inline-block;
+    width: 30%;
+    border-color: white;
+}
